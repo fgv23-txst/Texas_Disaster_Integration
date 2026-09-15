@@ -1,0 +1,576 @@
+disaster_number,state,disaster_description,incident_start_date,incident_end_date,declaration_date,declaration_type,status,physical_deadline_date,eidl_deadline_date,fema_number,county_type,county_name,county_fips,latitude,longitude,event_id
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Primary,Sherman,48421,36.278593,-101.899265,EID_0801
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Contiguous,Dallam,48111,36.28637,-102.59402,EID_0801
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Contiguous,Hansford,48195,36.272847,-101.35693,EID_0801
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Contiguous,Hartley,48205,35.840244,-102.610047,EID_0801
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Contiguous,Hutchinson,48233,35.837047,-101.362746,EID_0801
+TX-20083,TX,Drought,2026-04-28,,2026-05-18,Secretary of Agriculture,Disaster Declared,,2027-01-19,,Contiguous,Moore,48341,35.835676,-101.890502,EID_0801
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Primary,Cameron,48061,26.102923,-97.478958,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Primary,Parker,48367,32.777096,-97.805905,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Primary,Victoria,48469,28.79637,-96.971198,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Primary,Wise,48497,33.219095,-97.653997,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Calhoun,48057,28.441719,-96.579574,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Cooke,48097,33.639196,-97.210343,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Denton,48121,33.205132,-97.12114,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,DeWitt,48123,29.082346,-97.361654,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Goliad,48175,28.6607,-97.430415,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Hidalgo,48215,26.396384,-98.18099,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Hood,48221,32.430149,-97.831677,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Jack,48237,33.232302,-98.171104,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Jackson,48239,28.959802,-96.58908,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Johnson,48251,32.379654,-97.364906,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Lavaca,48285,29.382578,-96.923633,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Montague,48337,33.678356,-97.725014,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Palo Pinto,48363,32.752204,-98.317967,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Refugio,48391,28.322116,-97.162472,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Tarrant,48439,32.772119,-97.291224,EID_0001
+TX-20081,TX,Severe Storms and Tornadoes,2026-04-24,2026-05-09,2026-05-07,SBA Declaration (Agency),Disaster Declared,2026-07-06,2027-02-08,,Contiguous,Willacy,48489,26.481861,-97.594731,EID_0001
+OK-20038,TX,Drought,2026-04-21,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Dallam,48111,36.28637,-102.59402,EID_0802
+OK-20038,TX,Drought,2026-04-21,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Hemphill,48211,35.815956,-100.27921,EID_0802
+OK-20038,TX,Drought,2026-04-21,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Lipscomb,48295,36.2802,-100.272683,EID_0802
+OK-20038,TX,Drought,2026-04-21,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Sherman,48421,36.278593,-101.899265,EID_0802
+NM-20024,TX,Drought,2026-04-14,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Dallam,48111,36.28637,-102.59402,EID_0803
+NM-20024,TX,Drought,2026-04-14,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Hartley,48205,35.840244,-102.610047,EID_0803
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Primary,Bailey,48017,34.067521,-102.830345,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Primary,Cochran,48079,33.60844,-102.830449,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Primary,Nolan,48353,32.312338,-100.418108,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Coke,48081,31.87711,-100.635231,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Fisher,48151,32.740473,-100.40312,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Hockley,48219,33.605932,-102.343398,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Jones,48253,32.743709,-99.87443,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Lamb,48279,34.068861,-102.348018,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Mitchell,48335,32.304117,-100.924392,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Parmer,48369,34.532163,-102.784853,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Runnels,48399,31.845119,-99.982715,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Scurry,48415,32.744353,-100.913346,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Taylor,48441,32.297126,-99.89043,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Terry,48445,33.171229,-102.339284,EID_0804
+TX-20088,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Yoakum,48501,33.162339,-102.832241,EID_0804
+NM-20028,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Bailey,48017,34.067521,-102.830345,EID_0805
+NM-20028,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0805
+NM-20028,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Deaf Smith,48117,34.940766,-102.607564,EID_0805
+NM-20028,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Parmer,48369,34.532163,-102.784853,EID_0805
+LA-20022,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Jefferson,48245,29.854027,-94.149318,EID_0806
+LA-20022,TX,Drought,2026-03-31,,2026-07-28,Secretary of Agriculture,Disaster Declared,,2027-03-29,,Contiguous,Orange,48361,30.122323,-93.8941,EID_0806
+LA-20020,TX,Drought,2026-03-24,,2026-07-01,Secretary of Agriculture,Disaster Declared,,2027-03-01,,Contiguous,Newton,48351,30.786718,-93.73925,EID_0807
+LA-20020,TX,Drought,2026-03-24,,2026-07-01,Secretary of Agriculture,Disaster Declared,,2027-03-01,,Contiguous,Orange,48361,30.122323,-93.8941,EID_0807
+TX-20087,TX,Drought,2026-03-24,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Gregg,48183,32.486401,-94.816277,EID_0808
+TX-20087,TX,Drought,2026-03-24,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Harrison,48203,32.547991,-94.374434,EID_0808
+TX-20087,TX,Drought,2026-03-24,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Rusk,48401,32.109423,-94.756382,EID_0808
+TX-20087,TX,Drought,2026-03-24,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Smith,48423,32.375105,-95.268939,EID_0808
+TX-20087,TX,Drought,2026-03-24,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Upshur,48459,32.735349,-94.941184,EID_0808
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Castro,48069,34.533621,-102.258786,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Collingsworth,48087,34.963358,-100.272135,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Deaf Smith,48117,34.940766,-102.607564,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Hartley,48205,35.840244,-102.610047,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Oldham,48359,35.401921,-102.59762,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Primary,Parmer,48369,34.532163,-102.784853,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Bailey,48017,34.067521,-102.830345,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Childress,48075,34.524661,-100.208194,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Dallam,48111,36.28637,-102.59402,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Donley,48129,34.955036,-100.815846,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Gray,48179,35.402542,-100.812374,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Hale,48189,34.068436,-101.822888,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Hall,48191,34.453189,-100.576343,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Lamb,48279,34.068861,-102.348018,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Moore,48341,35.835676,-101.890502,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Potter,48375,35.398675,-101.893804,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Randall,48381,34.962529,-101.895547,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Sherman,48421,36.278593,-101.899265,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Swisher,48437,34.526319,-101.743865,EID_0809
+TX-20086,TX,Drought,2026-03-17,,2026-07-10,Secretary of Agriculture,Disaster Declared,,2027-03-10,,Contiguous,Wheeler,48483,35.392603,-100.253114,EID_0809
+NM-20026,TX,Drought,2026-03-17,,2026-07-01,Secretary of Agriculture,Disaster Declared,,2027-03-01,,Contiguous,Deaf Smith,48117,34.940766,-102.607564,EID_0810
+NM-20026,TX,Drought,2026-03-17,,2026-07-01,Secretary of Agriculture,Disaster Declared,,2027-03-01,,Contiguous,Hartley,48205,35.840244,-102.610047,EID_0810
+NM-20026,TX,Drought,2026-03-17,,2026-07-01,Secretary of Agriculture,Disaster Declared,,2027-03-01,,Contiguous,Oldham,48359,35.401921,-102.59762,EID_0810
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Andrews,48003,32.312258,-102.640206,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Armstrong,48011,34.964179,-101.356636,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Carson,48065,35.405496,-101.355356,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Dallam,48111,36.28637,-102.59402,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Donley,48129,34.955036,-100.815846,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Ector,48135,31.865301,-102.542507,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Gray,48179,35.402542,-100.812374,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Hansford,48195,36.272847,-101.35693,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Haskell,48207,33.175964,-99.730774,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Hemphill,48211,35.815956,-100.27921,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Hill,48217,31.982681,-97.130668,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Hutchinson,48233,35.837047,-101.362746,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Lipscomb,48295,36.2802,-100.272683,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Ochiltree,48357,36.278744,-100.815864,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Potter,48375,35.398675,-101.893804,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Randall,48381,34.962529,-101.895547,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Roberts,48393,35.838596,-100.836682,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Swisher,48437,34.526319,-101.743865,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Wheeler,48483,35.392593,-100.253107,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Primary,Moore,48341,35.835676,-101.890502,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Baylor,48023,33.618802,-99.208189,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Bosque,48035,31.900819,-97.637641,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Briscoe,48045,34.525172,-101.205893,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Castro,48069,34.533621,-102.258786,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Collingsworth,48087,34.963358,-100.272135,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Crane,48103,31.439608,-102.492504,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Deaf Smith,48117,34.940766,-102.607564,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Ellis,48139,32.346878,-96.79694,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Floyd,48153,34.07373,-101.303274,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Gaines,48165,32.743942,-102.631561,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Hale,48189,34.068436,-101.822888,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Hall,48191,34.453189,-100.576343,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Hartley,48205,35.840244,-102.610047,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Johnson,48251,32.379654,-97.364906,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Jones,48253,32.743709,-99.87443,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,King,48269,33.614268,-100.245345,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Knox,48275,33.61189,-99.730356,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Limestone,48293,31.547543,-96.593623,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Martin,48317,32.30983,-101.961836,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,McLennan,48309,31.549596,-97.201511,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Midland,48329,31.814269,-102.002454,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Navarro,48349,32.043349,-96.476406,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Oldham,48359,35.401921,-102.59762,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Shackelford,48417,32.74382,-99.347005,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Sherman,48421,36.278593,-101.899265,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Stonewall,48433,33.17958,-100.253807,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Throckmorton,48447,33.170695,-99.205796,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Upton,48461,31.353816,-102.041546,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Ward,48475,31.513069,-103.105113,EID_0811
+TX-20082,TX,Drought,2026-03-03,,2026-05-06,Secretary of Agriculture,Disaster Declared,,2027-01-06,,Contiguous,Winkler,48495,31.832862,-103.054925,EID_0811
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Primary,Archer,48009,33.616305,-98.687267,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Primary,Kaufman,48257,32.598944,-96.288377,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Baylor,48023,33.618802,-99.208189,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Clay,48077,33.785904,-98.212917,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Dallas,48113,32.766987,-96.778424,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Ellis,48139,32.346878,-96.79694,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Henderson,48213,32.211633,-95.853418,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Hunt,48231,33.123308,-96.08423,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Jack,48237,33.232302,-98.171104,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Rockwall,48397,32.90028,-96.412049,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Throckmorton,48447,33.170695,-99.205796,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Van Zandt,48467,32.558787,-95.836906,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Wichita,48485,33.988212,-98.70801,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Wilbarger,48487,34.08492,-99.24244,EID_0812
+TX-20084,TX,Drought,2026-02-24,,2026-06-01,Secretary of Agriculture,Disaster Declared,,2027-02-01,,Contiguous,Young,48503,33.158778,-98.67839,EID_0812
+LA-20016,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Cass,48067,33.083698,-94.357579,EID_0813
+LA-20016,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Harrison,48203,32.547991,-94.374434,EID_0813
+LA-20016,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Marion,48315,32.798182,-94.356853,EID_0813
+LA-20016,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Newton,48351,30.786718,-93.73925,EID_0813
+LA-20016,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Panola,48365,32.163978,-94.305156,EID_0813
+AR-20040,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Bowie,48037,33.446065,-94.422393,EID_0814
+AR-20040,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Cass,48067,33.083698,-94.357579,EID_0814
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Briscoe,48045,34.525172,-101.205893,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Childress,48075,34.524624,-100.208166,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Clay,48077,33.785904,-98.212917,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Cottle,48101,34.091906,-100.276442,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Falls,48145,31.25193,-96.934127,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Fisher,48151,32.740473,-100.40312,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Freestone,48161,31.701749,-96.144957,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Glasscock,48173,31.868006,-101.521494,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Hale,48189,34.068436,-101.822888,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Hardeman,48197,34.289904,-99.745697,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Hall,48191,34.453189,-100.576343,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Harrison,48203,32.547991,-94.374434,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Henderson,48213,32.211633,-95.853418,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Hockley,48219,33.605932,-102.343398,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Howard,48227,32.30343,-101.438721,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Jefferson,48245,29.854,-94.149331,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Kent,48263,33.18478,-100.76972,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,King,48269,33.614268,-100.245345,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Knox,48275,33.61189,-99.730356,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Lamb,48279,34.068861,-102.348018,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Limestone,48293,31.547543,-96.593623,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Martin,48317,32.30983,-101.961836,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Midland,48329,31.814269,-102.002454,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Mitchell,48335,32.304117,-100.924392,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Navarro,48349,32.048448,-96.476909,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Newton,48351,30.786718,-93.73925,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Orange,48361,30.122323,-93.8941,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Scurry,48415,32.744353,-100.913346,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Smith,48423,32.375105,-95.268939,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Stonewall,48433,33.17958,-100.253807,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Van Zandt,48467,32.558787,-95.836906,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Walker,48471,30.743163,-95.569825,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Wichita,48485,33.988212,-98.70801,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Primary,Yoakum,48501,33.162339,-102.832241,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Anderson,48001,31.841261,-95.661727,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Andrews,48003,32.312258,-102.640206,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Archer,48009,33.616305,-98.687267,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Armstrong,48011,34.964179,-101.356636,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Bailey,48017,34.067521,-102.830345,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Baylor,48023,33.618802,-99.208189,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Bell,48027,31.037009,-97.479635,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Borden,48033,32.73859,-101.439199,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Castro,48069,34.533621,-102.258786,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Chambers,48071,29.696374,-94.669445,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Cherokee,48073,31.843879,-95.156343,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Coke,48081,31.87711,-100.635231,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Collingsworth,48087,34.963358,-100.272135,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Crosby,48107,33.609144,-101.29871,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Dawson,48115,32.742528,-101.948771,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Dickens,48125,33.615362,-100.787618,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Donley,48129,34.955036,-100.815846,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Ector,48135,31.865301,-102.542507,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Ellis,48139,32.346878,-96.79694,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Floyd,48153,34.07373,-101.303274,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Foard,48155,33.963306,-99.816828,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Gaines,48165,32.743942,-102.631561,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Garza,48169,33.183792,-101.301134,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Gregg,48183,32.486401,-94.816277,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Grimes,48185,30.543231,-95.988082,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Hardin,48199,30.329648,-94.393178,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Haskell,48207,33.175964,-99.730774,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Hill,48217,31.982641,-97.130632,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Houston,48225,31.323036,-95.4216,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Hunt,48231,33.123308,-96.08423,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Jack,48237,33.232302,-98.171104,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Jasper,48241,30.752932,-94.022294,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Jones,48253,32.743709,-99.87443,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Kaufman,48257,32.598944,-96.288377,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Leon,48289,31.300493,-95.995622,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Liberty,48291,30.158508,-94.844061,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Lubbock,48303,33.611469,-101.819944,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Lynn,48305,33.178412,-101.818493,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Madison,48313,30.966878,-95.930372,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Marion,48315,32.798182,-94.356853,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,McLennan,48309,31.549596,-97.201511,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Milam,48331,30.791242,-96.984395,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Montague,48337,33.678356,-97.725014,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Montgomery,48339,30.298801,-95.50295,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Motley,48345,34.057899,-100.793152,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Nolan,48353,32.312338,-100.418108,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Panola,48365,32.163978,-94.305156,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Parmer,48369,34.532163,-102.784853,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Rains,48379,32.870457,-95.795613,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Reagan,48383,31.375191,-101.514395,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Robertson,48395,31.025481,-96.514941,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Rusk,48401,32.109423,-94.756382,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Sabine,48403,31.3433,-93.851913,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,San Jacinto,48407,30.574388,-95.163136,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Sterling,48431,31.835773,-101.054911,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Swisher,48437,34.526319,-101.743865,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Taylor,48441,32.297126,-99.89043,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Terry,48445,33.171229,-102.339284,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Throckmorton,48447,33.170695,-99.205796,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Trinity,48455,31.096675,-95.151687,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Upshur,48459,32.735349,-94.941184,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Upton,48461,31.353816,-102.041546,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Wilbarger,48487,34.08492,-99.24244,EID_0815
+TX-20080,TX,Drought,2026-02-03,,2026-04-24,Secretary of Agriculture,Disaster Declared,,2026-12-24,,Contiguous,Wood,48499,32.783588,-95.382166,EID_0815
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Cooke,48097,33.639196,-97.210343,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Fannin,48147,33.591161,-96.104988,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Grayson,48181,33.624548,-96.675777,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Hansford,48195,36.272847,-101.35693,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Lamar,48277,33.667263,-95.570348,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Lipscomb,48295,36.2802,-100.272683,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Montague,48337,33.678356,-97.725014,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Ochiltree,48357,36.278744,-100.815864,EID_0816
+OK-20035,TX,Drought,2026-02-03,,2026-04-15,Secretary of Agriculture,Disaster Declared,,2026-12-15,,Contiguous,Sherman,48421,36.278593,-101.899265,EID_0816
+LA-20012,TX,2026 Severe Winter Storm,2026-01-23,2026-01-27,2026-02-02,Governors Certification,Disaster Declared,,2026-11-02,,Contiguous,Panola,48365,32.163978,-94.305156,EID_0817
+LA-20012,TX,2026 Severe Winter Storm,2026-01-23,2026-01-27,2026-02-02,Governors Certification,Disaster Declared,,2026-11-02,,Contiguous,Shelby,48419,31.790139,-94.142579,EID_0817
+LA-20015,TX,Drought,2025-12-30,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Newton,48351,30.786718,-93.73925,EID_0818
+LA-20015,TX,Drought,2025-12-30,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Panola,48365,32.163978,-94.305156,EID_0818
+LA-20015,TX,Drought,2025-12-30,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Sabine,48403,31.3433,-93.851913,EID_0818
+LA-20015,TX,Drought,2025-12-30,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Shelby,48419,31.790139,-94.142579,EID_0818
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Primary,Waller,48473,30.01359,-95.982149,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Primary,Washington,48477,30.215075,-96.410272,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Austin,48015,29.891901,-96.27017,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Brazos,48041,30.656713,-96.302394,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Burleson,48051,30.493487,-96.622091,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Fayette,48149,29.877886,-96.921231,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Fort Bend,48157,29.526602,-95.771015,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Grimes,48185,30.543231,-95.988082,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Harris,48201,29.857273,-95.393037,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Lee,48287,30.321498,-96.976823,EID_0819
+TX-20068,TX,Drought,2025-12-29,,2026-01-12,Secretary of Agriculture,Disaster Declared,,2026-09-14,,Contiguous,Montgomery,48339,30.298801,-95.50295,EID_0819
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Bowie,48037,33.446065,-94.422393,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Childress,48075,34.524661,-100.208194,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Clay,48077,33.785904,-98.212917,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Collingsworth,48087,34.963358,-100.272135,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hardeman,48197,34.289904,-99.745697,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hemphill,48211,35.815956,-100.27921,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Lamar,48277,33.667263,-95.570348,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Montague,48337,33.678356,-97.725014,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Red River,48387,33.619625,-95.048429,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Wheeler,48483,35.392603,-100.253114,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Wichita,48485,33.988212,-98.70801,EID_0820
+OK-20034,TX,Drought,2025-11-15,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Wilbarger,48487,34.08492,-99.24244,EID_0820
+OK-20033,TX,Drought,2025-11-11,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Hardeman,48197,34.289904,-99.745697,EID_0821
+OK-20033,TX,Drought,2025-11-11,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Wichita,48485,33.988212,-98.70801,EID_0821
+OK-20033,TX,Drought,2025-11-11,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Wilbarger,48487,34.08492,-99.24244,EID_0821
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Primary,Austin,48015,29.891901,-96.27017,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Colorado,48089,29.596262,-96.508888,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Fayette,48149,29.877886,-96.921231,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Fort Bend,48157,29.526602,-95.771015,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Waller,48473,30.01359,-95.982149,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Washington,48477,30.215075,-96.410272,EID_0822
+TX-20067,TX,Drought,2025-11-04,,2025-12-29,Secretary of Agriculture,Disaster Declared,,2026-08-31,,Contiguous,Wharton,48481,29.27848,-96.229674,EID_0822
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Anderson,48001,31.841261,-95.661727,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Angelina,48005,31.251896,-94.611134,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Aransas,48007,28.122621,-96.967501,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Atascosa,48013,28.891478,-98.535381,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Austin,48015,29.891901,-96.27017,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bandera,48019,29.756389,-99.248285,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bastrop,48021,30.100772,-97.310639,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Baylor,48023,33.618802,-99.208189,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bee,48025,28.416077,-97.742586,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bell,48027,31.04275,-97.481268,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bexar,48029,29.448671,-98.520147,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Blanco,48031,30.266456,-98.399217,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Borden,48033,32.73859,-101.439199,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Bowie,48037,33.446065,-94.422393,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Brazoria,48039,29.167817,-95.434647,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Brazos,48041,30.656713,-96.302394,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Brewster,48043,29.808997,-103.252458,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Brooks,48047,27.034994,-98.215276,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Brown,48049,31.764137,-98.998456,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Burleson,48051,30.493487,-96.622091,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Caldwell,48055,29.832399,-97.628141,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Burnet,48053,30.78963,-98.201187,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Calhoun,48057,28.441719,-96.579574,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Cameron,48061,26.102923,-97.478958,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Camp,48063,32.974581,-94.979085,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Cass,48067,33.083698,-94.357579,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Chambers,48071,29.696374,-94.669445,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Cherokee,48073,31.843881,-95.156343,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Coleman,48083,31.914205,-99.346622,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Colorado,48089,29.596296,-96.508935,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Comal,48091,29.812377,-98.258129,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Crosby,48107,33.609144,-101.29871,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Culberson,48109,31.445908,-104.526945,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Dawson,48115,32.742528,-101.948771,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Delta,48119,33.385933,-95.67335,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,DeWitt,48123,29.082346,-97.361654,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Dickens,48125,33.615363,-100.787617,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Dimmit,48127,28.423587,-99.765871,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Duval,48131,27.681123,-98.497393,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Fannin,48147,33.591161,-96.104988,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Fayette,48149,29.877886,-96.921231,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Floyd,48153,34.07373,-101.303274,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Foard,48155,33.963306,-99.816828,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Fort Bend,48157,29.526602,-95.771015,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Franklin,48159,33.175846,-95.219066,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Frio,48163,28.869383,-99.109005,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Gaines,48165,32.743942,-102.631561,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Galveston,48167,29.233453,-94.888456,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Garza,48169,33.183792,-101.301134,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Gillespie,48171,30.325093,-98.94185,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Goliad,48175,28.6607,-97.430415,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Gonzales,48177,29.461912,-97.49192,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Grimes,48185,30.543231,-95.988082,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Guadalupe,48187,29.582671,-97.948995,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hardin,48199,30.329648,-94.393178,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Harris,48201,29.857273,-95.393037,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hays,48209,30.061225,-98.029267,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hidalgo,48215,26.396384,-98.18099,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hopkins,48223,33.148967,-95.565434,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Houston,48225,31.323036,-95.4216,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hudspeth,48229,31.450868,-105.377549,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Hunt,48231,33.123308,-96.08423,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Jackson,48239,28.959802,-96.58908,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Jasper,48241,30.752932,-94.022294,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Jeff Davis,48243,30.625357,-104.191873,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Jim Hogg,48247,27.053231,-98.747572,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Jim Wells,48249,27.733516,-98.090814,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Karnes,48255,28.908996,-97.852205,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Kendall,48259,29.943525,-98.709269,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Kenedy,48261,26.890213,-97.591143,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Kerr,48265,30.059953,-99.353339,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Kinney,48271,29.347086,-100.4177,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Kleberg,48273,27.438735,-97.66062,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Lamar,48277,33.667263,-95.570348,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,La Salle,48283,28.351098,-99.096774,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Lavaca,48285,29.382578,-96.923633,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Lee,48287,30.321498,-96.976823,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Leon,48289,31.300493,-95.995622,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Liberty,48291,30.158508,-94.844061,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Live Oak,48297,28.351535,-98.126961,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Llano,48299,30.707584,-98.68469,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Lubbock,48303,33.611469,-101.819944,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Panola,48365,32.163978,-94.305156,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Shelby,48419,31.790139,-94.142579,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Nacogdoches,48347,31.62056,-94.62025,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,McMullen,48311,28.384922,-98.578853,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Medina,48325,29.353661,-99.111085,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Milam,48331,30.791242,-96.984395,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Montgomery,48339,30.298801,-95.50295,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Morris,48343,33.116466,-94.731265,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Motley,48345,34.057899,-100.793152,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Nueces,48355,27.740032,-97.516214,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Pecos,48371,30.773298,-102.718153,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Polk,48373,30.784553,-94.837338,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Presidio,48377,30.005891,-104.261619,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Rains,48379,32.870457,-95.795613,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Red River,48387,33.619625,-95.048429,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Reeves,48389,31.308366,-103.712706,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Refugio,48391,28.322116,-97.162472,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Robertson,48395,31.025481,-96.514941,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Rusk,48401,32.109423,-94.756382,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Sabine,48403,31.3433,-93.851913,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,San Augustine,48405,31.382449,-94.16318,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,San Jacinto,48407,30.574388,-95.163136,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,San Patricio,48409,28.011794,-97.517157,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Starr,48427,26.530903,-98.740235,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Terrell,48443,30.232343,-102.072513,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Terry,48445,33.171229,-102.339284,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Titus,48449,33.214599,-94.966783,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Travis,48453,30.239513,-97.69127,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Trinity,48455,31.096675,-95.151687,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Tyler,48457,30.769295,-94.375656,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Upshur,48459,32.735349,-94.941184,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Uvalde,48463,29.350308,-99.768427,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Val Verde,48465,29.875285,-101.143324,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Victoria,48469,28.79637,-96.971198,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Waller,48473,30.01359,-95.982149,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Washington,48477,30.215075,-96.410272,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Webb,48479,27.760799,-99.340752,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Wharton,48481,29.27848,-96.229674,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Wilbarger,48487,34.08492,-99.24244,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Willacy,48489,26.481861,-97.594731,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Williamson,48491,30.649082,-97.605065,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Wilson,48493,29.173883,-98.086734,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Wood,48499,32.783588,-95.382166,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Zapata,48505,26.996981,-99.182603,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Zavala,48507,28.864652,-99.75983,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Matagorda,48321,28.77476,-96.001532,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Lynn,48305,33.178412,-101.818493,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Madison,48313,30.966878,-95.930372,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Marion,48315,32.798182,-94.356853,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Primary,Maverick,48323,28.729787,-100.316678,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Andrews,48003,32.312258,-102.640206,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Archer,48009,33.616305,-98.687267,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Briscoe,48045,34.525172,-101.205893,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Callahan,48059,32.29315,-99.372249,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Collin,48085,33.194482,-96.579428,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Comanche,48093,31.951645,-98.549617,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Concho,48095,31.318883,-99.863649,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Coryell,48099,31.391177,-97.798022,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Cottle,48101,34.091906,-100.276442,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Eastland,48133,32.324645,-98.83656,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Edwards,48137,29.985933,-100.3074,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,El Paso,48141,31.766456,-106.24152,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Falls,48145,31.25193,-96.934127,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Freestone,48161,31.701749,-96.144957,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Grayson,48181,33.624548,-96.675777,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hale,48189,34.068436,-101.822888,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hardeman,48197,34.289904,-99.745697,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Haskell,48207,33.175964,-99.730774,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Henderson,48213,32.211633,-95.853418,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hockley,48219,33.605932,-102.343398,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Howard,48227,32.30343,-101.438721,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Jefferson,48245,29.854027,-94.149318,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Kaufman,48257,32.598944,-96.288377,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Kent,48263,33.18478,-100.76972,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Kimble,48267,30.479472,-99.746396,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,King,48269,33.614268,-100.245345,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Knox,48275,33.61189,-99.730356,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Lamb,48279,34.068861,-102.348018,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Lampasas,48281,31.196731,-98.240889,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Limestone,48293,31.547543,-96.593623,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Martin,48317,32.30983,-101.961836,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Mason,48319,30.703916,-99.237302,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,McCulloch,48307,31.205477,-99.359856,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,McLennan,48309,31.549596,-97.201511,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Mitchell,48335,32.304117,-100.924392,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Newton,48351,30.786718,-93.73925,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Orange,48361,30.122323,-93.8941,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Real,48385,29.830097,-99.812549,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Rockwall,48397,32.90028,-96.412049,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Runnels,48399,31.845119,-99.982715,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,San Saba,48411,31.155138,-98.819292,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Scurry,48415,32.744353,-100.913346,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Smith,48423,32.375105,-95.268939,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Stonewall,48433,33.17958,-100.253807,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Swisher,48437,34.526319,-101.743865,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Taylor,48441,32.297126,-99.89043,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Throckmorton,48447,33.170695,-99.205796,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Van Zandt,48467,32.558787,-95.836906,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Walker,48471,30.743163,-95.569825,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Wichita,48485,33.988212,-98.70801,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Yoakum,48501,33.162339,-102.832241,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Young,48503,33.158778,-98.67839,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Crane,48103,31.439608,-102.492504,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Crockett,48105,30.717532,-101.404211,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Gregg,48183,32.486401,-94.816277,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hall,48191,34.453189,-100.576343,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Harrison,48203,32.547991,-94.374434,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Loving,48301,31.844936,-103.561229,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Sutton,48435,30.522185,-100.513359,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Ward,48475,31.513069,-103.105113,EID_0823
+TX-20077,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Mills,48333,31.494888,-98.594623,EID_0823
+AR-20038,TX,Drought,2025-11-01,,2026-04-06,Secretary of Agriculture,Disaster Declared,,2026-12-07,,Contiguous,Bowie,48037,33.446065,-94.422393,EID_0824
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Andrews,48003,32.312258,-102.640206,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Culberson,48109,31.445908,-104.526945,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,El Paso,48141,31.766456,-106.24152,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Gaines,48165,32.743942,-102.631561,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Hudspeth,48229,31.450868,-105.377549,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Loving,48301,31.844936,-103.561229,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Reeves,48389,31.308366,-103.712706,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Winkler,48495,31.832862,-103.054925,EID_0825
+NM-20022,TX,Drought,2025-11-01,,2026-04-10,Secretary of Agriculture,Disaster Declared,,2026-12-10,,Contiguous,Yoakum,48501,33.162339,-102.832241,EID_0825
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Runnels,48399,31.845119,-99.982715,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Coke,48081,31.87711,-100.635231,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Coleman,48083,31.914205,-99.346622,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Concho,48095,31.318883,-99.863649,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Nolan,48353,32.312338,-100.418108,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Taylor,48441,32.297126,-99.89043,EID_0826
+TX-20076,TX,Drought and Excessive Heat,2025-07-15,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Tom Green,48451,31.397591,-100.464168,EID_0826
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Hockley,48219,33.605932,-102.343398,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Bailey,48017,34.067521,-102.830345,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hale,48189,34.068436,-101.822888,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lamb,48279,34.068861,-102.348018,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lubbock,48303,33.611469,-101.819944,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lynn,48305,33.178412,-101.818493,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Terry,48445,33.171229,-102.339284,EID_0827
+TX-20073,TX,"Tornado, Hail, and High Winds",2025-06-05,2025-06-22,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Yoakum,48501,33.162339,-102.832241,EID_0827
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Lubbock,48303,33.611469,-101.819944,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Crosby,48107,33.609144,-101.29871,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Floyd,48153,34.07373,-101.303274,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Garza,48169,33.183792,-101.301134,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hale,48189,34.068436,-101.822888,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hockley,48219,33.605932,-102.343398,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lamb,48279,34.068861,-102.348018,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lynn,48305,33.178412,-101.818493,EID_0828
+TX-20072,TX,"Tornado, Excessive Rain, Hail, and High Winds",2025-06-05,2025-06-07,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Terry,48445,33.171229,-102.339284,EID_0828
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Terry,48445,33.171229,-102.339284,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Cochran,48079,33.60844,-102.830449,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Dawson,48115,32.742528,-101.948771,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Gaines,48165,32.743942,-102.631561,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hockley,48219,33.605932,-102.343398,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lubbock,48303,33.611469,-101.819944,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Lynn,48305,33.178412,-101.818493,EID_0829
+TX-20074,TX,Excessive Rain and High Winds,2025-05-23,2025-11-28,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Yoakum,48501,33.162339,-102.832241,EID_0829
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Hill,48217,31.982681,-97.130668,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Bosque,48035,31.900819,-97.637641,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Ellis,48139,32.346878,-96.79694,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Johnson,48251,32.379654,-97.364906,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Limestone,48293,31.547543,-96.593623,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,McLennan,48309,31.549596,-97.201511,EID_0830
+TX-20071,TX,"Excessive Rain, Hail, and High Winds",2025-05-02,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Navarro,48349,32.043349,-96.476406,EID_0830
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Ellis,48139,32.346878,-96.79694,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Dallas,48113,32.766987,-96.778424,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Henderson,48213,32.211633,-95.853418,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hill,48217,31.982641,-97.130632,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Johnson,48251,32.379654,-97.364906,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Kaufman,48257,32.598944,-96.288377,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Navarro,48349,32.043349,-96.476406,EID_0831
+TX-20070,TX,"Excessive Rain, Flash Flooding, Hail, High Winds, and Lightning",2025-05-01,2025-06-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Tarrant,48439,32.772119,-97.291224,EID_0831
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Collin,48085,33.194494,-96.579428,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Grayson,48181,33.624524,-96.675693,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,Hunt,48231,33.123308,-96.08423,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Cooke,48097,33.639196,-97.210343,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Dallas,48113,32.766987,-96.778424,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Delta,48119,33.385933,-95.67335,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Denton,48121,33.205132,-97.12114,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Fannin,48147,33.591161,-96.104988,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Hopkins,48223,33.148967,-95.565434,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Kaufman,48257,32.598944,-96.288377,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Rains,48379,32.870457,-95.795613,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Rockwall,48397,32.90028,-96.412049,EID_0832
+TX-20069,TX,Excessive Rain,2025-03-21,2025-07-08,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Van Zandt,48467,32.558787,-95.836906,EID_0832
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Primary,San Patricio,48409,28.011794,-97.517157,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Aransas,48007,28.122621,-96.967501,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Bee,48025,28.416077,-97.742586,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Jim Wells,48249,27.733516,-98.090814,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Live Oak,48297,28.351479,-98.126891,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Nueces,48355,27.739975,-97.516301,EID_0002
+TX-20075,TX,Drought,2025-01-01,2025-12-30,2026-03-19,Secretary of Agriculture,Disaster Declared,,2026-11-19,,Contiguous,Refugio,48391,28.322116,-97.162472,EID_0002
