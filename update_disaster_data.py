@@ -107,7 +107,6 @@ print("\nNext new event number:", next_event_number)
 
 
 
-print("\nNext new event number:", next_event_number)
 
 
 ###----------------------- Update Governor proclamation data-------------------------##
@@ -129,12 +128,6 @@ proclamation = pd.read_csv(
     r"..\texas_proclamation_tracker\data\disaster_proclamations.csv"
 )
 
-
-
-# #-------------------Read Governor proclamation data-----------------------------------##
-
-
-proclamation = pd.read_csv(r"..\texas_proclamation_tracker\data\disaster_proclamations.csv")
 
 print("Governor data loaded")
 print(proclamation.head())
@@ -682,7 +675,7 @@ print(connections)
 
 # Create a key for each connected disaster
 connections["link_key"] = connections.apply(        #Some proclamations has FEMA disaster--created a new ID--
-                                                    #need to share the same event_i
+                                                    #need to share the same event_id
     lambda row:
         f"SBA_{row['sba_number']}"
         if pd.notna(row["sba_number"])
